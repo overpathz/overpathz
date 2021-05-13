@@ -16,17 +16,11 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
   ```java
   ​
-  public class Stack {
-    private Map<String, String> stack = new HashMap<>();
-
-    public Stack() {
         stack.put("languages: ", "Java");
         stack.put("databases: ", "MySQL, JDBC, PostgreSQL");
         stack.put("web: ", "Servlets, JSP, Spring (Boot, MVC, Data, Security)");
         stack.put("orm: ", "Hibernate");
         stack.put("vcs: ", "Git");
-    }
-}
   ​
   ```
 </div>
