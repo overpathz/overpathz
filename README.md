@@ -1,16 +1,36 @@
-### Hi there 👋
+<h3> Hey there ✋</h3>
 
-<!--
-**overpathz/overpathz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/github/followers/overpathz?style=social)
 
-Here are some ideas to get you started:
+Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h4> I'm in telegram: </h4>
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/akira_7)
+  
+<div>
+
+  <h3> Stack </h3>
+
+  ```java
+  ​
+  public class Stack {
+    private Map<String, String> stack = new HashMap<>();
+
+    public Stack() {
+        stack.put("languages: ", "Java");
+        stack.put("databases: ", "MySQL, JDBC, PostgreSQL");
+        stack.put("web: ", "Servlets, JSP, Spring (Boot, MVC, Data, Security)");
+        stack.put("orm: ", "Hibernate");
+        stack.put("vcs: ", "Git");
+    }
+}
+  ​
+  ```
+</div>
+
+<h3> 📈 My GitHub Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=overpathz&show_icons=true&theme=gotham" alt="Overpathz" width="100%" >
