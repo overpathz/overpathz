@@ -6,7 +6,7 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
 
 
-<h3> I'm in telegram: </h3>
+<h4> I'm in telegram: </h4>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/akira_7)
   
