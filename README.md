@@ -21,7 +21,7 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
     public Stack() {
         stack.put("languages: ", "Java");
-        stack.put("databases: ", "MySQL, JDBC, PostgreSQL");
+        stack.put("databases: ", "MySQL, JDBC");
         stack.put("web: ", "Servlets, JSP, Spring (Boot, MVC, Data, Security)");
         stack.put("orm: ", "Hibernate");
         stack.put("vcs: ", "Git");
