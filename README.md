@@ -4,7 +4,7 @@
 
 Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw1oJ5KLqyUvvW8RQZAuTfMZ&ust=1621798414500000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi5rIeE3vACFQAAAAAdAAAAABAD)
+![](https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 
 <h4> I'm in telegram: </h4>
 
