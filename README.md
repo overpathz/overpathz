@@ -34,7 +34,3 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
   ​
   ```
 </div>
-
-<h3> 📈 My GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=overpathz&show_icons=true&theme=gotham" alt="Overpathz" width="100%" >
