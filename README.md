@@ -35,4 +35,4 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
   ```
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overpathz&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overpathz&layout=compact)
