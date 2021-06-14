@@ -4,7 +4,7 @@
 
 Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
-![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)[50x50]
+![50x50](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
 <h4> I'm in telegram: </h4>
 
