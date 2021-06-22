@@ -32,6 +32,7 @@ public class Stack {
     public void setStack(Map<String, String> stack) {
         this.stack = stack;
     }
+  
 }
   ​
   ```
