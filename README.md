@@ -14,10 +14,10 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
   ```java
   ​
-  public class Stack {
+public class Stack {
     private Map<String, String> stack = new HashMap<>();
-
-    public Stack() {
+    
+    {
         stack.put("languages: ", "Java");
         stack.put("databases: ", "SQL, JDBC");
         stack.put("web: ", "Servlets, JSP, Spring (Boot, MVC, Data, Security)");
@@ -25,10 +25,14 @@ Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
         stack.put("vcs: ", "Git");
     }
 
-    public Stack(Map<String, String> map) {
-        this.stack = map;
+    public Map<String, String> getStack() {
+        return stack;
     }
-  }
+
+    public void setStack(Map<String, String> stack) {
+        this.stack = stack;
+    }
+}
   ​
   ```
 </div>
