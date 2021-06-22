@@ -1,7 +1,5 @@
 <h3> Hey there ✋</h3>
 
-![](https://img.shields.io/github/followers/overpathz?style=social)
-
 Hi, I'm Alex, a beginner Java Developer 🚀 from Ukraine.
 
 ![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
