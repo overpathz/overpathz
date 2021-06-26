@@ -1,6 +1,8 @@
 <h3> Hey there ✋</h3>
 
-I'm Alex, a beginner Java Developer from Ukraine ☕️
+I'm Alex, a beginner Java Developer ☕️
+
+Location: Ukraine, Lviv
 
 ![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
