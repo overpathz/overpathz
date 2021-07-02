@@ -23,7 +23,7 @@ public class Stack {
         stack.put("languages: ", "Java");
         stack.put("databases: ", "SQL, JDBC");
         stack.put("web: ", "Servlets, JSP, Spring (Boot, MVC, Data, Security)");
-        stack.put("orm: ", "JPA (Hibernate)");
+        stack.put("orm: ", "Hibernate");
         stack.put("vcs: ", "Git");
     }
 
