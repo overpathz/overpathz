@@ -6,7 +6,7 @@ Location: Ukraine, Lviv
 
 ![](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
-<h4> I'm in telegram: </h4>
+<h4> I'm in telegram:</h4>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/akira_7)
   
