@@ -1,6 +1,6 @@
 <h3> Hey there ✋</h3>
 
-I'm Alex, a beginner Java Developer ☕️
+I'm Alex, a beginner Java Developer ☕️<br>
 Location: Ukraine, Lviv
 
 <h4> I'm in telegram:</h4>
