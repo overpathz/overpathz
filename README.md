@@ -1,7 +1,6 @@
 <h3> Hey there ✋</h3>
 
 I'm Alex, a beginner Java Developer ☕️
-
 Location: Ukraine, Lviv
 
 <h4> I'm in telegram:</h4>
