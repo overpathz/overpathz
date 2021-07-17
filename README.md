@@ -23,15 +23,6 @@ public class Stack {
         stack.put("orm: ", "Hibernate");
         stack.put("vcs: ", "Git");
     }
-
-    public Map<String, String> getStack() {
-        return stack;
-    }
-
-    public void setStack(Map<String, String> stack) {
-        this.stack = stack;
-    }
-  
 }
   ​
   ```
