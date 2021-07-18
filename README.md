@@ -18,7 +18,7 @@ public class Stack {
     
     {
         stack.put("languages: ", "Java");
-        stack.put("databases: ", "PostgreSQL, MySQL JDBC");
+        stack.put("databases: ", "PostgreSQL, MySQL, JDBC");
         stack.put("web: ", "Servlet API, JSP, Spring (Core, MVC, Boot, Data, Security)");
         stack.put("orm: ", "Hibernate");
         stack.put("vcs: ", "Git");
