@@ -5,7 +5,7 @@ Location: Ukraine, Lviv
 
 <h4> I'm in telegram:</h4>
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/akira_7)
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
   
 <div>
 
