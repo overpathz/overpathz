@@ -10,7 +10,7 @@ Location: Ukraine, Lviv
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
 
-<br><br>
+<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
 
