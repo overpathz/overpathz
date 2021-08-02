@@ -8,7 +8,7 @@ Location: Ukraine, Lviv
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
   
 <h3> Stack </h3>
-- : Java
+-: Java
 - ⚙️ Java
 - ⚙️ Java
 
