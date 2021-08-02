@@ -7,7 +7,7 @@ Location: Ukraine, Lviv
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
   
-### ⚙️ Stack ⚙️
+### Stack ⚙️
 - Java
 - JBDC
 - PostgreSQL, MySQL
