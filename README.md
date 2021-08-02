@@ -7,6 +7,7 @@ Location: Ukraine, Lviv
 
 - Java
 - JDBC, PostgreSQL, MySQL
+- Servlet API
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
 
