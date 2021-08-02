@@ -10,23 +10,9 @@ Location: Ukraine, Lviv
 <div>
 
   <h3> Stack </h3>
-
-  ```java
-  ​
-public class Stack {
-    private Map<String, String> stack = new HashMap<>();
-    
-    {
-        stack.put("languages: ", "Java");
-        stack.put("databases: ", "PostgreSQL, MySQL, JDBC");
-        stack.put("web: ", "Servlet API, JSP, Spring (Core, MVC, Boot, Data, Security)");
-        stack.put("orm: ", "Hibernate");
-        stack.put("vcs: ", "Git");
-    }
-  
-}
-  ​
-  ```
+  - ⚙️ Java
+  - ⚙️ Java
+  - ⚙️ Java
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overpathz&layout=compact)
