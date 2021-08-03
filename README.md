@@ -1,7 +1,7 @@
 <h3> Hey there ✋</h3>
 
 Alex, Java Developer ☕️<br>
-Location: Ukraine, Lviv
+Location: Ukraine
   
 ### Stack
 
