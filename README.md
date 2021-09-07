@@ -10,6 +10,7 @@ Location: Ukraine
 - Servlet API
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
+- Jenkins, JUnit, Docker
 
 <br>
 
