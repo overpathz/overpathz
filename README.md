@@ -1,6 +1,6 @@
 <h3> Hey there ✋</h3>
 
-Alex, Java Developer from Ukraine ☕️<br>
+Alex, Java Developer ☕️<br>
   
 ### Stack
 
