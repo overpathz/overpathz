@@ -4,12 +4,12 @@ Alex, Java Developer ☕️<br>
   
 ### Stack
 
-- Java
+- Java, JavaFx
 - JDBC, PostgreSQL, MySQL
 - Servlet API
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
-- Jenkins, JUnit, Docker
+- Jenkins, JUnit, Docker, Mavem
 
 <br>
 
