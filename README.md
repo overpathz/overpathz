@@ -2,7 +2,7 @@
 
 Alex, Java Developer ☕️<br>
   
-### Stack
+### Technologies
 
 - Java, JavaFx
 - JDBC, PostgreSQL, MySQL
