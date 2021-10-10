@@ -9,7 +9,7 @@ Alex, Java Developer ☕️<br>
 - Servlet API
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
-- Jenkins, JUnit, Docker, Mavem
+- Jenkins, JUnit, Docker, Maven
 
 <br>
 
