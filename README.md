@@ -2,7 +2,7 @@
 
 Alex, Java Developer ☕️<br>
   
-### Technologies
+### Technologies I use
 
 - Java, JavaFx
 - JDBC, PostgreSQL, MySQL
