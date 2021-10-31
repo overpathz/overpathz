@@ -1,4 +1,4 @@
-<h3>Hey there<img src="https://user-images.githubusercontent.com/72043323/139587666-1123b5e0-b859-44e2-a0fe-4c3f33f6e986.gif" width="20" height="20"/></h3>
+<h3>Hey there <img src="https://user-images.githubusercontent.com/72043323/139587666-1123b5e0-b859-44e2-a0fe-4c3f33f6e986.gif" width="20" height="20"/></h3>
 
 Alex, Java Developer ☕️<br>
   
