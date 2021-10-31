@@ -2,7 +2,7 @@
 
 Alex, Java Developer<br>
 
-![1_lhOax3cZATGZwEhG0uTYRA](https://user-images.githubusercontent.com/72043323/139588185-89e1bd24-8319-4bd4-859f-7ce4ecf94fd4.gif)
+<img src="https://user-images.githubusercontent.com/72043323/139588185-89e1bd24-8319-4bd4-859f-7ce4ecf94fd4.gif" width="100" height="100"/>
 
 ### Technologies I use
 
