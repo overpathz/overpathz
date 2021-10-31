@@ -1,6 +1,6 @@
 <h3>Hey there <img src="https://user-images.githubusercontent.com/72043323/139587666-1123b5e0-b859-44e2-a0fe-4c3f33f6e986.gif" width="35" height="35"/></h3>
 
-Alex, Java Developer <img scr="https://user-images.githubusercontent.com/72043323/139587915-a3d517e4-cd15-4442-9a57-00d838be247a.gif" width="35" height="35"/><br>
+Alex, Java Developer <img src="https://user-images.githubusercontent.com/72043323/139588027-de0923f5-b0cf-4d4b-94fe-0db67307ec04.gif" width="35" height="35"/><br>
   
 ### Technologies I use
 
@@ -16,3 +16,4 @@ Alex, Java Developer <img scr="https://user-images.githubusercontent.com/7204332
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overpathz&layout=compact)
+![image_processing20190925-8316-1cqbcyf]()
