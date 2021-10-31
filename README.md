@@ -1,4 +1,4 @@
-![wave](https://user-images.githubusercontent.com/72043323/139587666-1123b5e0-b859-44e2-a0fe-4c3f33f6e986.gif=250x250)<h3>Hey there </h3>
+![wave](https://user-images.githubusercontent.com/72043323/139587666-1123b5e0-b859-44e2-a0fe-4c3f33f6e986.gif =250x250)<h3>Hey there </h3>
 
 Alex, Java Developer ☕️<br>
   
