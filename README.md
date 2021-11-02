@@ -13,6 +13,10 @@ Alex, Java Developer<br>
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
 - Jenkins, JUnit, Docker, Maven
 
+#### Actively studying
+
+- Jenkins, Docker, Maven and Git (advanced level)
+
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/uzing_s)
