@@ -12,7 +12,7 @@ Alex, Java Developer<br>
 - JUnit, Maven
 - Multithreading
 - Networking (OSI model, protocols, TCP/IP, sockets)
-- Mmultithreading
+- Multithreading
 - C, Python
 
 <br>
