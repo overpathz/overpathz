@@ -2,7 +2,7 @@
 
 Alex, Java Developer<br>
 
-### Technologies I use
+### Skills
 
 - Java, JavaFx
 - JDBC, PostgreSQL, MySQL
@@ -10,6 +10,10 @@ Alex, Java Developer<br>
 - Hibernate
 - Spring (Core, MVC, Boot, Data JPA, Secutity)
 - JUnit, Maven
+- Multithreading
+- Networking (OSI model, protocols, TCP/IP, sockets)
+- Mmultithreading
+- C, Python
 
 <br>
 
