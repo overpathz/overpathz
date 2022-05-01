@@ -12,8 +12,8 @@ Alex, Java Software Engineer <br>
 - JUnit, Maven
 - Multithreading
 - Networking (OSI model, protocols, TCP/IP, sockets)
-- Multithreading
 - C, Python
+- Basic knowledge of Objective-C
 
 <br>
 
